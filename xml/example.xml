@@ -1,0 +1,26 @@
+<produsers>
+	<produser>
+			<name>alan</name>
+			<age>19</age>
+			<show>
+				<showname>A show</showname>
+				<showdate>9 january 1998</showdate>
+			</show>
+	</produser>
+	<produser>
+			<name>alin</name>
+			<age>12</age>
+			<show>
+				<showname>Another show</showname>
+				<showdate>4 january 2008</showdate>
+			</show>
+	</produser>
+	<produser>
+			<name>ulan</name>
+			<age>20</age>
+			<show>
+				<showname>A better show</showname>
+				<showdate>9 february 1990</showdate>
+			</show>
+	</produser>
+</produsers>
